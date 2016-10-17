@@ -46,3 +46,12 @@ C:\Users\ronald.junior\Downloads\Calculadora_De_Matrizes-master\Calculadora_De_M
 C:\Users\ronald.junior\Desktop\Matrix_Calculator_Daniel\Calculadora De Matrizes\bin\Debug\Calculadora De Matrizes.exe.config
 C:\Users\ronald.junior\Desktop\Matrix_Calculator_Daniel\Calculadora De Matrizes\obj\Debug\Calculadora De Matrizes.exe
 C:\Users\ronald.junior\Desktop\Matrix_Calculator_Daniel\Calculadora De Matrizes\obj\Debug\Calculadora De Matrizes.pdb
+C:\Users\ronald.junior\Desktop\GitHub\Matrix_Calculator_Daniel\Calculadora De Matrizes\bin\Debug\Calculadora De Matrizes.exe.config
+C:\Users\ronald.junior\Desktop\GitHub\Matrix_Calculator_Daniel\Calculadora De Matrizes\obj\Debug\Calculadora De Matrizes.exe
+C:\Users\ronald.junior\Desktop\GitHub\Matrix_Calculator_Daniel\Calculadora De Matrizes\obj\Debug\Calculadora De Matrizes.pdb
+C:\Users\ronald.junior\Desktop\GitHub\Matrix_Calculator_Daniel\Calculadora De Matrizes\bin\Debug\Calculadora De Matrizes.exe
+C:\Users\ronald.junior\Desktop\GitHub\Matrix_Calculator_Daniel\Calculadora De Matrizes\bin\Debug\Calculadora De Matrizes.pdb
+C:\Users\ronald.junior\Desktop\GitHub\Matrix_Calculator_Daniel\Calculadora De Matrizes\obj\Debug\Calculadora De Matrizes.csprojResolveAssemblyReference.cache
+C:\Users\ronald.junior\Desktop\GitHub\Matrix_Calculator_Daniel\Calculadora De Matrizes\obj\Debug\Calculadora_De_Matrizes.Form1.resources
+C:\Users\ronald.junior\Desktop\GitHub\Matrix_Calculator_Daniel\Calculadora De Matrizes\obj\Debug\Calculadora_De_Matrizes.Properties.Resources.resources
+C:\Users\ronald.junior\Desktop\GitHub\Matrix_Calculator_Daniel\Calculadora De Matrizes\obj\Debug\Calculadora De Matrizes.csproj.GenerateResource.Cache

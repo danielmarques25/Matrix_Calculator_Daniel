@@ -34,13 +34,13 @@ namespace Calculadora_De_Matrizes
 
             if (!int.TryParse(textBox1.Text, out linha1))
             {
-                MessageBox.Show("Por Favor adicione a linha.", "Erro");
+                MessageBox.Show("Adicione a linha.", "Erro");
                 return;
             }
 
             if (!int.TryParse(textBox2.Text, out coluna1))
             {
-                MessageBox.Show("Por Favor adicione a coluna.", "Erro");
+                MessageBox.Show("Adicione a coluna.", "Erro");
                 return;
             }
 
@@ -65,12 +65,12 @@ namespace Calculadora_De_Matrizes
 
             if (!int.TryParse(textBox3.Text, out linha2))
             {
-                MessageBox.Show("Por Favor adicione a lina.", "Erro");
+                MessageBox.Show("Adicione a linha.", "Erro");
                 return;
             }
             if (!int.TryParse(textBox4.Text, out coluna2))
             {
-                MessageBox.Show("Por Favor adicione a coluna.", "Erro");
+                MessageBox.Show("Adicione a coluna.", "Erro");
                 return;
             }
             int TamanhoText = groupBox2.Width / coluna2;
@@ -738,6 +738,7 @@ namespace Calculadora_De_Matrizes
             }
         }
         #endregion
+
     }
 }
 
