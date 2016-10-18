@@ -351,6 +351,7 @@
             this.Transposta.SetToolTip(this.button15, "Calcula a matriz transposta");
             this.button15.UseVisualStyleBackColor = true;
             this.button15.ClientSizeChanged += new System.EventHandler(this.Transposta_Click);
+            this.button15.Click += new System.EventHandler(this.Transposta_Click);
             // 
             // button16
             // 
@@ -432,6 +433,7 @@
             this.Controls.Add(this.textBox1);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
+            this.MinimumSize = new System.Drawing.Size(718, 420);
             this.Name = "Form1";
             this.Text = "Calculadora de Matriz";
             this.ResumeLayout(false);
